@@ -1,0 +1,8 @@
+.vscode
+_notes.txt
+
+# Build directories
+build/
+
+# Generated image files
+*.ppm
